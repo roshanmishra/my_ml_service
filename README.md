@@ -20,3 +20,7 @@ In the `backend` directory there is Django application.
 
 In the `docker` directory there are dockerfiles for running the service in the container.
 
+
+## Django + React Tutorial :books:
+
+I'm working on complete tutorial how to build SaaS (software as a Service) application with Django and React from scratch. The SaaS service will be for server uptime monitoring - it is available at [monitor-uptime.com](https://monitor-uptime.com). The tutorial is available at [SaaSitive website](https://saasitive.com/react-django-tutorial/).
